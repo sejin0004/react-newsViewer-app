@@ -1,6 +1,6 @@
 # 나의 3 번째 리액트 프로젝트
 
-##News-Viewer App
+## News-Viewer App
 
 1. yarn create react-app 사용
 2. 함수형 컴포넌트 사용 (Hooks)
